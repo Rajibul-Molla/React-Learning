@@ -27,6 +27,7 @@ function App() {
       <br />
       <br />
       <button onClick={decrease}>Decrease</button>
+      <h2>Thank You</h2>
     </>
   );
 }
